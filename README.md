@@ -10,3 +10,4 @@ What I want to add:
     - Should contain way to transfer the lead to the player who won the last hand.
     - A hand counter to keep track of points.
     - A way of visualizing your hand.
+    - A way of randomly pulling a jack from the deck to determine dealer.
